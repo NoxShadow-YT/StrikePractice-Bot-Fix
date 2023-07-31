@@ -8,6 +8,10 @@ The plugin also registers a `/nxpracticebotfix` command that can be used to show
 ## Installation
 ~~1. Download the latest release of the plugin from the Releases page on GitHub.~~
 1. Download all the files, and use Maven to complie it into a .jar file.
+`maven clean package`
+For some reason I cant complie it for you guys.
+`[ERROR] Failed to execute goal on project NXStrikePracticeBotFix: Could not resolve dependencies for project com.example:NXStrikePracticeBotFix:jar:1.0: The following artifacts could not be resolved: org.bukkit:bukkit:jar:1.17.1-R0.1-SNAPSHOT (absent), net.frozenorb:StrikePracticeAPI:jar:1.1.4-SNAPSHOT (absent): Could not find artifact org.bukkit:bukkit:jar:1.17.1-R0.1-SNAPSHOT -> [Help 1]
+[ERROR] `
 2. Place the ~~downloaded~~ complied JAR file in the `plugins` folder of your Bukkit server.
 3. Start or restart your Bukkit server.
 
