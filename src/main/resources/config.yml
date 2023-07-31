@@ -1,0 +1,5 @@
+settings:
+  debug: false
+messages:
+  usage: '&cUSAGE: /nxpracticebotfix reload'
+  no-perms: '&cYou don''t have enough permissions to  execute this command'
