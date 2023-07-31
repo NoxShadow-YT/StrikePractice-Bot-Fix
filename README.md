@@ -6,8 +6,9 @@ NXStrikePracticeBotFix is a Bukkit plugin that fixes the issue where players los
 The plugin also registers a `/nxpracticebotfix` command that can be used to show a description of the plugin and reload the `config.yml` file. The `config.yml` file can be edited to change the plugin's behavior.
 
 ## Installation
-1. Download the latest release of the plugin from the Releases page on GitHub.
-2. Place the downloaded JAR file in the `plugins` folder of your Bukkit server.
+~~1. Download the latest release of the plugin from the Releases page on GitHub.~~
+1. Download all the files, and use Maven to complie it into a .jar file.
+2. Place the ~~downloaded~~ complied JAR file in the `plugins` folder of your Bukkit server.
 3. Start or restart your Bukkit server.
 
 ## Usage
