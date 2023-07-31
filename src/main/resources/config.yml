@@ -1,5 +1,7 @@
-settings:
-  debug: false
-messages:
-  usage: '&cUSAGE: /nxpracticebotfix reload'
-  no-perms: '&cYou don''t have enough permissions to  execute this command'
+# Default configuration options for NXStrikePracticeBotFix
+
+# Whether to enable the plugin
+enabled: true
+
+# The message to send to players when the plugin fixes a bot kill
+message: '&cYou lost the match because you were killed by a bot.'
